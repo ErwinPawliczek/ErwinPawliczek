@@ -1,16 +1,14 @@
 # Erwin Pawliczek
 
-Chemical engineering student at the University of Houston. I build simulation engines
-for process plants and chemical supply chains, and I work close to the metal when
-the problem needs it — C, C++, numerical methods, and Linux.
+ChemE at the University of Houston. I build process and supply-chain simulation
+engines in Python and C/C++.
 
 ## Highlights
 
-- **Linux kernel (crypto/ecc.c).** Timing side-channel fix in ECDH public-key
-  generation: randomize the initial Z in `ecc_make_pub_key()` so a
-  non-constant-time modular inversion cannot leak the private key through its
-  running time. Applied by maintainer Herbert Xu on 12 Nov 2026 —
-  [`cd65eaf17841`](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cd65eaf17841ac76f93a0c0806215cbd0e1cd980).
+- **Linux kernel contributor (crypto/ecc.c).** Fixed a timing side channel in
+  ECDH key generation by randomizing the initial Z in `ecc_make_pub_key()`.
+  Applied by crypto maintainer Herbert Xu on 12 Nov 2026:
+  [commit `cd65eaf17841`](https://git.kernel.org/pub/scm/linux/kernel/git/herbert/cryptodev-2.6.git/commit/?id=cd65eaf17841ac76f93a0c0806215cbd0e1cd980).
 - **Ocypod** (private, all rights reserved). Stochastic agent-based simulation of
   the global ethylene → PE/MEG supply chain. 1st place, AITX × MLOps World /
   Antler hackathon.
