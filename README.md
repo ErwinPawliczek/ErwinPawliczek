@@ -34,9 +34,6 @@ the problem needs it — C, C++, numerical methods, and Linux.
   spatial block CV). Team repo:
   [salehk1/uh-ai-hackathon](https://github.com/salehk1/uh-ai-hackathon), live at
   [quanthouse.casa](https://quanthouse.casa).
-- **VulnSwarm / Swarmageddon** — Team ALANI, AITX & MLOps World Community
-  Hackathon. Public repo:
-  [andrewcar/AITX-ANTLER-Hackathon](https://github.com/andrewcar/AITX-ANTLER-Hackathon).
 
 ## Skills
 
