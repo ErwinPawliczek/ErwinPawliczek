@@ -12,7 +12,7 @@ engines in Python and C/C++.
 - **Ocypod** (private, all rights reserved). Stochastic agent-based simulation of
   the global ethylene → PE/MEG supply chain. 1st place, AITX × MLOps World /
   Antler hackathon.
-- **[Stomato](https://github.com/ErwinPawliczek/Stomato).** Process simulation and
+- **Stomato** (private, all rights reserved). Process simulation and
   engineering-design engine for natural gas processing: Peng–Robinson solve,
   equipment sizing, PFD, P&ID, and isometrics from one model.
 - **[OilFlood](https://github.com/ErwinPawliczek/OilFlood)** — live at
