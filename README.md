@@ -27,8 +27,7 @@ the problem needs it — C, C++, numerical methods, and Linux.
 
 ## Hackathon wins and other work
 
-- **ChemBee** — 1st place overall and Cognee track winner; invited Cognee
-  ambassador. Agentic plant analysis: an LLM writes Python against live/sim data
+- **ChemBee** — 1st place, Cognee track; invited Cognee ambassador. Agentic plant analysis: an LLM writes Python against live/sim data
   and a DWSIM engine. Live demo (login): [chembee.xyz](https://chembee.xyz).
 - **QuantHouse** — Houston housing "price receipt" models (GWR / LightGBM,
   spatial block CV). Team repo:
