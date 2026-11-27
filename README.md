@@ -1,7 +1,6 @@
 # Erwin Pawliczek
 
-ChemE at the University of Houston. I build process and supply-chain simulation
-engines in Python and C/C++.
+ChemE at the University of Houston. Sometimes, I hear the memory allocation
 
 ## Highlights
 
