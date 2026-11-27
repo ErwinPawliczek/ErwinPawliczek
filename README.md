@@ -8,7 +8,9 @@ engines in Python and C/C++.
 - **Linux kernel contributor (crypto/ecc.c).** Fixed a timing side channel in
   ECDH key generation by randomizing the initial Z in `ecc_make_pub_key()`.
   Applied by crypto maintainer Herbert Xu on 12 Nov 2026:
-  [commit `cd65eaf17841`](https://git.kernel.org/pub/scm/linux/kernel/git/herbert/cryptodev-2.6.git/commit/?id=cd65eaf17841ac76f93a0c0806215cbd0e1cd980).
+  [mainline commit `cd65eaf17841`](https://github.com/torvalds/linux/commit/cd65eaf17841)
+  ([crypto tree](https://git.kernel.org/pub/scm/linux/kernel/git/herbert/cryptodev-2.6.git/commit/?id=cd65eaf17841ac76f93a0c0806215cbd0e1cd980),
+  [patch on lore](https://lore.kernel.org/all/20261026034429.742489-1-pawliczekerwin@gmail.com/)).
 - **Ocypod** (private, all rights reserved). Stochastic agent-based simulation of
   the global ethylene → PE/MEG supply chain. 1st place, AITX × MLOps World /
   Antler hackathon.
